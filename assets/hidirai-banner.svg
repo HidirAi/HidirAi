@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" role="img" aria-label="HidirAi — AI assistant in Telegram">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1f">
+        <animate attributeName="stop-color" values="#0a0f1f;#111c3d;#0a0f1f" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.55" stop-color="#0e1730"/>
+      <stop offset="1" stop-color="#060a14"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="220" rx="22"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <g opacity="0.07" stroke="#7dd3fc" stroke-width="1">
+      <path d="M120 0V220M240 0V220M360 0V220M480 0V220M600 0V220M720 0V220M840 0V220M960 0V220M1080 0V220"/>
+      <path d="M0 55H1200M0 110H1200M0 165H1200"/>
+    </g>
+    <rect x="0" y="-6" width="1200" height="6" fill="url(#scan)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 232" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="none" stroke="#22d3ee" stroke-width="3" opacity="0.85">
+      <path d="M30 62V30H62"/>
+      <path d="M1138 30H1170V62"/>
+      <path d="M1170 158V190H1138"/>
+      <path d="M62 190H30V158"/>
+    </g>
+    <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="2" fill="url(#ink)" filter="url(#glow)">HidirAi</text>
+    <text x="600" y="152" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="7" fill="#9fb3d1">AI ASSISTANT · TELEGRAM</text>
+    <text x="600" y="186" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing="5" fill="#5eead4">RU · EN · TJ</text>
+  </g>
+  <rect x="1.5" y="1.5" width="1197" height="217" rx="21" fill="none" stroke="#1f6feb" stroke-width="2" opacity="0.55">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
