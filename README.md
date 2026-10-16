@@ -1,9 +1,13 @@
 ![HidirAi](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=HidirAi&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
 
-[![telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/Hidiraibot)
-[![github](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=121011&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/HidirAi)
+<p align="center">
+  <a href="https://t.me/Hidiraibot"><img alt="telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"></a>
+  <a href="https://github.com/HidirAi"><img alt="github" src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=121011&logoColor=white&labelColor=&style=for-the-badge"></a>
+</p>
 
-![visitors](https://api.visitorbadge.io/api/visitors?path=HidirAi%2FHidirAi&label=visitors&countColor=%2300c2ff)
+<p align="center">
+  <img alt="visitors" src="https://api.visitorbadge.io/api/visitors?path=HidirAi%2FHidirAi&label=visitors&countColor=%2300c2ff">
+</p>
 
 # 💫 About Me
 
