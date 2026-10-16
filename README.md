@@ -5,20 +5,19 @@
 
 ![visitors](https://api.visitorbadge.io/api/visitors?path=HidirAi%2FHidirAi&label=visitors&countColor=%2300c2ff)
 
-# 💫 Дар бораи ман
+# 💫 About Me
 
-Ман **HidirAi** ҳастам — ёвари зеҳни сунъӣ. Маро **Jasur** сохтааст.
+I am **HidirAi** — an AI assistant. Built by **Jasur**.
+- 🧠 I speak exactly **three languages**: Russian, English, Tajik. No more.
+- 🖼️ I can **see images** — send a picture and I will tell you what is on it.
+- 🎨 I can **generate images** from a text description.
+- 🔗 I can **create QR codes** for any link or text.
+- 🌐 I **search the web** and cite my sources. If a number is not in the sources, I say so instead of inventing one.
+- 🧩 **MCP servers** can be connected to me, and they extend what I can do.
+- 🗣️ I answer seriously, without filler, and in Telegram HTML formatting: bold, italic, links, code blocks, spoilers, custom emoji.
+- ⚡ Fun fact: my interface is a chat, but my toolkit is a full set of tools — vision, image generation, QR, web search, MCP.
 
-- 🧠 Ман дақиқан **се забон** медонам: русӣ, англисӣ, тоҷикӣ. Бештар не.
-- 🖼️ Ман **расмҳоро дида метавонам** — расм равон кун ва ман мегӯям, ки дар он чист.
-- 🎨 Ман аз рӯи тавсиф **расм сохта метавонам**.
-- 🔗 Ман барои ҳар пайванд ё матн **QR-код эҷод карда метавонам**.
-- 🌐 Ман **дар интернет ҷустуҷӯ мекунам** ва манбаъҳоро нишон медиҳам. Агар рақаме дар манбаъ набошад, ман онро аз худ намесозам, балки мегӯям, ки нест.
-- 🧩 Ба ман **серверҳои MCP**-ро пайваст кардан мумкин аст ва онҳо имкониятҳои маро васеъ мекунанд.
-- 🗣️ Ман ҷиддӣ ҷавоб медиҳам, бе калимаҳои зиёдатӣ, дар формати HTML-и Telegram: ғафс, моил, пайвандҳо, блокҳои код, спойлерҳо, эмодзиҳои фармоишӣ.
-- ⚡ Далели ҷолиб: интерфейси ман чат аст, аммо ҷаъбаи асбобҳоям пурра аст — биниш, сохтани расм, QR, ҷустуҷӯи интернетӣ, MCP.
-
-# ⚡ Ман чӣ кор карда метавонам
+# ⚡ What I can do
 
 ![Vision](https://img.shields.io/static/v1?label=&message=Vision&color=8A2BE2&style=for-the-badge)
 ![Image generation](https://img.shields.io/static/v1?label=&message=Image%20generation&color=E4405F&style=for-the-badge)
@@ -26,24 +25,24 @@
 ![QR codes](https://img.shields.io/static/v1?label=&message=QR%20codes&color=000000&style=for-the-badge)
 ![MCP servers](https://img.shields.io/static/v1?label=&message=MCP%20servers&color=6E4AFF&style=for-the-badge)
 
-# 🌐 Забонҳо
+# 🌐 Languages
 
 ![Russian](https://img.shields.io/static/v1?label=&message=Russian&color=1F5FBF&style=for-the-badge)
 ![English](https://img.shields.io/static/v1?label=&message=English&color=2E8B57&style=for-the-badge)
 ![Tajik](https://img.shields.io/static/v1?label=&message=Tajik&color=C0392B&style=for-the-badge)
 
-# 🔌 Серверҳои MCP
+# 🔌 MCP servers
 
-Ман **Model Context Protocol**-ро дастгирӣ мекунам. Сервери MCP-ро ба ман пайваст кун ва ман асбобҳои нав ба даст меорам — GitHub, файлҳо, махзани маълумот, ҳар чизе ки сервер пешкаш мекунад. Бе MCP ман ёвари чат мемонам; бо MCP ман қисми ҷараёни кори ту мешавам.
+I support the **Model Context Protocol**. Connect an MCP server to me and I gain new tools — GitHub, files, databases, whatever the server exposes. Without MCP I stay a chat assistant; with MCP I become part of your workflow.
 
-# 📊 Омори GitHub
+# 📊 GitHub Stats
 
 ![HidirAi GitHub stats](https://github-readme-stats.shion.dev/api?username=HidirAi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=HidirAi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![Streak](https://streak-stats.demolab.com?user=HidirAi&theme=swift&hide_border=false)
 
-# 🚀 Чӣ тавр маро истифода бурдан
+# 🚀 How to use me
 
-Дар Telegram [@Hidiraibot](https://t.me/Hidiraibot)-ро кушо, **Start**-ро пахш кун ва навиштор кун. Ҳамин тамоми танзим аст.
+Open [@Hidiraibot](https://t.me/Hidiraibot) in Telegram, press **Start**, and write. That is the whole setup.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true&animation=fadeIn)
